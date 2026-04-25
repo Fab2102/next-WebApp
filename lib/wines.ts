@@ -28,13 +28,13 @@ export const wines: Wine[] = [
       "Zutaten: Trauben, Säureregulatoren: E 296 und E 334; Stabilisator: E 353; Antioxidantien: E 220 (Sulfite);",
     nutrients: {
       brennwert: {
-        kj: 332,
-        kcal: 79,
+        kj: 303,
+        kcal: 72,
       },
       fett: 0,
       gesaettigteFettsaeuren: 0,
-      kohlenhydrate: 1.0,
-      zucker: 0.2,
+      kohlenhydrate: 0.9,
+      zucker: 0.1,
       eiweiss: 0,
       salz: 0,
     },
@@ -47,8 +47,8 @@ export const wines: Wine[] = [
       "Zutaten: Trauben, Säureregulatoren: E 296 und E 334; Stabilisator: E 353; Antioxidantien: E 220 (Sulfite);",
     nutrients: {
       brennwert: {
-        kj: 325,
-        kcal: 78,
+        kj: 306,
+        kcal: 73,
       },
       fett: 0,
       gesaettigteFettsaeuren: 0,
@@ -66,13 +66,13 @@ export const wines: Wine[] = [
       "Zutaten: Trauben, Säureregulatoren: E 296 und E 334; Stabilisator: E 353; Antioxidantien: E 220 (Sulfite);",
     nutrients: {
       brennwert: {
-        kj: 354,
-        kcal: 85,
+        kj: 313,
+        kcal: 75,
       },
       fett: 0,
       gesaettigteFettsaeuren: 0,
-      kohlenhydrate: 1.0,
-      zucker: 0.2,
+      kohlenhydrate: 0.9,
+      zucker: 0.1,
       eiweiss: 0,
       salz: 0,
     },
@@ -238,7 +238,7 @@ export const wines: Wine[] = [
       "Zutaten: Trauben, Säureregulatoren: E 296 und E 334; Stabilisator: E 353; Antioxidantien: E 220 (Sulfite);",
     nutrients: {
       brennwert: {
-        kj: 308,
+        kj: 311,
         kcal: 74,
       },
       fett: 0,
